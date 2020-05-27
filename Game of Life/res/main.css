@@ -1,0 +1,14 @@
+body {
+  background-color: #ccc;
+}
+#board {
+  width: 640px;
+  height: 480px;
+  margin: auto;
+  background: #ffffff;
+  border: 5px solid #343434;
+  border-radius: 3px;
+  display: table;
+  transition: all 0.2s;
+  position: relative;
+}
